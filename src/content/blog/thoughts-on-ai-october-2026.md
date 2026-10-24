@@ -2,6 +2,7 @@
 title: 'How I stopped worrying and learned to love the bot: thoughts on AI in October 2026'
 description: 'A snapshot of where my thinking on AI and coding is right now, so I can look back on it.'
 pubDate: '2026-10-24'
+draft: true
 ---
 
 ### Why am I writing this?
